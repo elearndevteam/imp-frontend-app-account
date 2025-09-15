@@ -56,8 +56,13 @@ const siteLanguageList = [
   },
   {
     code: 'ru',
-    name: 'Русский',
+    name: 'Српски',
     released: false,
+  },
+  {
+    code: 'sr_Latn',
+    name:'Srpski',
+    released: true,
   },
   {
     code: 'th',
