@@ -22,6 +22,8 @@ import messages from './i18n';
 import './index.scss';
 import Head from './head/Head';
 
+console.log("Ovo je release/teak");
+
 const rootNode = createRoot(document.getElementById('root'));
 subscribe(APP_READY, () => {
   rootNode.render(
