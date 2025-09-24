@@ -60,6 +60,16 @@ const siteLanguageList = [
     released: false,
   },
   {
+    code: 'sr',
+    name: 'Српски',
+    released: false,
+  },
+  {
+    code: 'sr_Latn',
+    name: 'Srpski',
+    released: false,
+  },
+  {
     code: 'th',
     name: 'ไทย',
     released: false,
