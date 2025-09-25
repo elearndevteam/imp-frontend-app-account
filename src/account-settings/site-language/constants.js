@@ -65,7 +65,7 @@ const siteLanguageList = [
     released: false,
   },
   {
-    code: 'sr_Latn',
+    code: 'sr-Latn',
     name: 'Srpski',
     released: false,
   },
